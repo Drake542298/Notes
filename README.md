@@ -1,2 +1,2 @@
 # Notes
-This is a note taking website
+This is a note taking website.
